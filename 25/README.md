@@ -2,6 +2,8 @@
 
 [Методы поиска по документу](https://learn.javascript.ru/searching-elements-dom)
 
+[Курс по интерактивному HTML](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+
 1. `Custom name tags`. На странице используются дивы для создания карточек нескольких известных специалистов в области информатики. В этом задании тебе надо использовать JavaScript для изменения всех заголовков (h1) на карточках
 
    1. На первом шаге используй `document.getElementsByTagName`, чтобы найти все заголовки и сохранить их в переменную
