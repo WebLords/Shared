@@ -18,3 +18,4 @@
 
 - [What Makes a Good Mobile Site?](https://developers.google.com/web/fundamentals/design-and-ux/principles/)
 - [Мобильные интерфейсы](https://professorweb.ru/my/css/css_theory/level1/1_5.php)
+- [CSS Media Queries - Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
