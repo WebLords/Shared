@@ -5,3 +5,5 @@
 [Отправляем сообщения](http://jsfiddle.net/bdahk51u/26/show)
 
 [to do list](http://jsfiddle.net/7ow90frm/2/show)
+
+[quiz](http://jsfiddle.net/g21fnwy8/28/show)
