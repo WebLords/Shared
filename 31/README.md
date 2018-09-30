@@ -7,3 +7,5 @@
 [to do list](http://jsfiddle.net/7ow90frm/52/show)
 
 [quiz](http://jsfiddle.net/g21fnwy8/28/show)
+
+[rest api](https://habr.com/post/193458/)
